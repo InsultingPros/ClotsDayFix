@@ -1,22 +1,22 @@
 class GESummonRules extends GameRules;
 
 
-var ClotsDay clotsDayMutator;
+var ClotsDayFix clotsDayMutator;
 
 
 function PostBeginPlay()
 {
-	if (Level.Game.GameRulesModifiers == none)
-		Level.Game.GameRulesModifiers = self;
-	else
-		Level.Game.GameRulesModifiers.AddGameRules(self);
+  if (Level.Game.GameRulesModifiers == none)
+    Level.Game.GameRulesModifiers = self;
+  else
+    Level.Game.GameRulesModifiers.AddGameRules(self);
 }
 
 
 function AddGameRules(GameRules GR)
 {
-	if (GR != self)
-		super.AddGameRules(GR);
+  if (GR != self)
+    super.AddGameRules(GR);
 }
 
 

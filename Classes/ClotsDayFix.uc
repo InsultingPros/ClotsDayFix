@@ -1,4 +1,4 @@
-class ClotsDay extends Mutator;
+class ClotsDayFix extends Mutator;
 
 
 var config int amountOfClotsToSpawn;
