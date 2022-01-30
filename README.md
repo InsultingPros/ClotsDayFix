@@ -18,7 +18,7 @@ ClotsDayFix.ClotsDayFix
 
 At the moment of 2021.08.02 there are no dependencies.
 
-Use [KFCmdlet and it's batches](https://github.com/InsultingPros/KFCmdlet) for easy compilation.
+Use [KF Compile Tool](https://github.com/InsultingPros/KFCompileTool) for easy compilation.
 
 **EditPackages**
 
