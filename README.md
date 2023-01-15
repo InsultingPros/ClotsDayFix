@@ -1,6 +1,6 @@
 # Clots Day Fix
 
-![GitHub all releases](https://img.shields.io/github/downloads/InsultingPros/ClotsDayFix/total)
+[![GitHub all releases](https://img.shields.io/github/downloads/InsultingPros/ClotsDayFix/total)](https://github.com/InsultingPros/ClotsDayFix/releases)
 
 > N.B. Seasonal zeds are not supported!
 
